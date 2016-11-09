@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     @IBAction func unwindToThisViewController(segue: UIStoryboardSegue) {
     }
 
-    @IBAction func ButtonB(sender: AnyObject) {
+    @IBAction func ButtonB(sender: UIButton) {
     }
     
     override func viewDidLoad() {
